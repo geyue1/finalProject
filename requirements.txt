@@ -1,0 +1,55 @@
+absl-py==2.1.0
+certifi==2023.7.22
+chainer==7.8.1
+charset-normalizer==3.3.0
+contourpy @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_deuzpvbq4p/croot/contourpy_1700583585680/work
+cycler @ file:///tmp/build/80754af9/cycler_1637851556182/work
+filelock==3.12.4
+fonttools==4.25.0
+fsspec==2023.9.2
+GrouPy @ file:///Users/yge/Work%20Space/eccn/researchProject-eccn/lib/GrouPy-0.1.2.tar.gz#sha256=076363991b7e6cc7f94a92b84e1f02f19acbe1634c28725cb36ddb7d90356686
+grpcio==1.64.1
+huggingface-hub==0.23.0
+idna==3.4
+Jinja2==3.1.2
+kiwisolver @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_e26jwrjf6j/croot/kiwisolver_1672387151391/work
+Markdown==3.6
+MarkupSafe==2.1.3
+matplotlib @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_52jpupryfi/croot/matplotlib-suite_1698692115510/work
+mkl-service==2.4.0
+mpmath==1.3.0
+munkres==1.1.4
+networkx==3.1
+numpy==1.23.0
+packaging @ file:///private/var/folders/c_/qfmhj66j0tn016nkx_th4hxm0000gp/T/abs_2algm5p9lp/croot/packaging_1693575178038/work
+Pillow==10.1.0
+portalocker==2.8.2
+protobuf==4.24.4
+pyparsing @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_3a17y2delq/croots/recipe/pyparsing_1661452538853/work
+python-dateutil @ file:///tmp/build/80754af9/python-dateutil_1626374649649/work
+PyYAML==6.0.1
+regex==2024.4.28
+requests==2.31.0
+safetensors==0.4.3
+ScaleEqNet @ file:///Users/yge/Work%20Space/eccn/researchProject-eccn/lib/ScaleEqNet-0.0.1.tar.gz#sha256=93d4ebb5bb4330149338a83a55fbd8a1bfb035f26a53ea1db4ed8e3c612d1943
+scipy==1.11.3
+SESN @ file:///Users/yge/Work%20Space/eccn/researchProject-eccn/lib/SESN-0.0.1.tar.gz#sha256=d25cf51a96464b43a7d9fda2c2c00071732ae42f1107dc2dfd8f46571b0a3620
+six @ file:///tmp/build/80754af9/six_1644875935023/work
+sympy==1.12
+tensorboard==2.17.0
+tensorboard-data-server==0.7.2
+tokenizers==0.19.1
+torch==2.2.2
+torchaudio==2.1.0
+torchdata==0.7.1
+torchtext==0.17.2
+torchvision==0.16.0
+tornado @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_65x80foild/croot/tornado_1696936984963/work
+tqdm==4.66.2
+transformers==4.40.1
+typing_extensions==4.8.0
+urllib3==2.0.6
+Werkzeug==3.0.3
+
+groupy~=0.1.2
+scaleeqnet~=0.0.1
